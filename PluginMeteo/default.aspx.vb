@@ -5,7 +5,10 @@ Public Class _default
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        If Request.UserHostAddress <> My.Settings.Host Then Exit Sub
+        If Request.UserHostAddress <> My.Settings.Host Then
+            Response.Write("NON CONSENTITO")
+            Exit Sub
+        End If
         Try
             Select Case Request.QueryString("TYPE").ToUpper
                 Case "CONDITIONS"
@@ -27,7 +30,7 @@ Public Class _default
                             Response.Write(printresult.ToString)
                         End With
                     Catch ex As Exception
-
+                        Response.Write("ERRORE IN RICEZIONE DATI. RIPROVA PIU' TARDI")
                     End Try
                 Case "FORECAST"
                     Try
@@ -48,7 +51,7 @@ Public Class _default
                             Response.Write(printresult.ToString)
                         End With
                     Catch ex As Exception
-
+                        Response.Write("ERRORE IN RICEZIONE DATI. RIPROVA PIU' TARDI")
                     End Try
             End Select
         Catch ex As Exception

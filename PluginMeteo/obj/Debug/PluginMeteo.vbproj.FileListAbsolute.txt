@@ -10,3 +10,13 @@ C:\Users\paolo\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\PluginMeteo\obj\Deb
 C:\Users\paolo\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\PluginMeteo\obj\Debug\PluginMeteo.xml
 C:\Users\paolo\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\PluginMeteo\obj\Debug\PluginMeteo.pdb
 C:\Users\paolo\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\PluginMeteo\obj\Debug\PluginMeteo.vbprojResolveAssemblyReference.cache
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\bin\PluginMeteo.dll.config
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\bin\PluginMeteo.dll
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\bin\PluginMeteo.pdb
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\bin\PluginMeteo.xml
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\obj\Debug\PluginMeteo.vbprojResolveAssemblyReference.cache
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\obj\Debug\PluginMeteo.Resources.resources
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\obj\Debug\PluginMeteo.vbproj.GenerateResource.Cache
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\obj\Debug\PluginMeteo.dll
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\obj\Debug\PluginMeteo.xml
+C:\Cloud\Dropbox\~~InfoCittà\plugin_meteo\PluginMeteo\obj\Debug\PluginMeteo.pdb
