@@ -6,7 +6,7 @@ Public Class _default
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         If Request.UserHostAddress <> My.Settings.Host Then
-            Response.Write("NON CONSENTITO")
+            Response.Write("ERRORE: " + Request.UserHostAddress)
             Exit Sub
         End If
         Try
