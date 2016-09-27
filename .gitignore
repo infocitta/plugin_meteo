@@ -6,3 +6,7 @@ PluginMeteo/Web.Release.config
 *.dll
 *.pdb
 PluginMeteo/obj/Debug/PluginMeteo.vbproj.FileListAbsolute.txt
+*.suo
+*.dll
+*.pdb
+*.txt
